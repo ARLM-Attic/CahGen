@@ -1,0 +1,3845 @@
+﻿{
+FontName:"League Gothic",
+IncludeBackPages: false,
+Cards:[
+  {
+    "Text": "24-hour media coverage.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "50,000 volts straight to the nipples.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "72 virgins.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "8 oz. of sweet Mexican black-tar heroin.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A 55-gallon drum of lube.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A bag of magic beans.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A balanced breakfast.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A beached whale.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A big black dick.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A big hoopla about nothing.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A bigger, blacker dick.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A bitch slap.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A bleached asshole.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A bloody pacifier.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A Bop It™.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A brain tumor.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A bucket of fish heads.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A Burmese tiger pit.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A can of whoop-ass.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A caress of the inner thigh.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A cooler full of organs.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A crappy little hand.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A death ray.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A defective condom.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A disappointing birthday party.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A dollop of sour cream.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A falcon with a cap on its head.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A fetus.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A foul mouth.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A gassy antelope.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A good sniff.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A home video of Oprah sobbing into a Lean Cuisine.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A homoerotic volleyball montage.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A hot mess.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A lifetime of sadness.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A live studio audience.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A look-see.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A low standard of living.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A magic hippie love cloud.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A man in yoga pants with a ponytail and feather earrings.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A mating display.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A micropenis.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A micropig wearing a tiny raincoat and booties.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A middle-aged man on roller skates.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A mime having a stroke.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A monkey smoking a cigar.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A mopey zoo lion.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A murder most foul.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A nuanced critique.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A passionate Latino lover.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A piñata full of scorpions.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A plunger to the face.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A pyramid of severed heads.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A really cool hat.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A rival dojo.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A robust mongoloid.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A sad fat dragon with no friends.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A sad handjob.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A salty surprise.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A sassy black woman.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A sausage festival.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A sea of troubles.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A slightly shittier parallel universe.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A snapping turtle biting the tip of your penis.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A soulful rendition of 'Ol' Man River.'",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A spastic nerd.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A squadron of moles wearing aviator goggles.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A stray pube.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A subscription to Men's Fitness.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A super soaker full of cat pee",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A Super Soaker™ full of cat pee.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A sweaty, panting leather daddy.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A sweet spaceship.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A thermonuclear detonation.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A time travel paradox.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A tiny horse.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A tribe of warrior women.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A web of lies.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A windmill full of corpses.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A woman scorned.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "A zesty breakfast burrito.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Aaron Burr.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Active listening.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Actually taking candy from a baby.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Adderall™.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "African children.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Agriculture.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "AIDS.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Alcoholism.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "All of this blood.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "All-you-can-eat shrimp for $4.99.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Altar boys.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Amputees.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "An army of skeletons.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "An asymmetric boob job.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "An erection that lasts longer than four hours.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "An ether-soaked rag.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "An honest cop with nothing left to lose.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "An icepick lobotomy.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "An M. Night Shyamalan plot twist.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "An M16 assault rifle.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "An Oedipus complex.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "An unhinged ferris wheel rolling toward the sea.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "An uppercut.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Anal beads.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Another goddamn vampire movie.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Another shot of morphine.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Apologizing.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Arnold Schwarzenegger.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Asians who aren't good at math.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Assless chaps.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Attitude.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Auschwitz.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Authentic Mexican cuisine.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Autocannibalism.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "AXE Body Spray.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Balls.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Barack Obama.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Basic human decency.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "BATMAN!!!",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Battlefield amputations.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Beating your wives.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Beefin' over turf.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Bees?",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Being a busy adult with many important things to do.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Being a dick to children.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Being a dinosaur.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Being a motherfucking sorcerer.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Being awesome at sex.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Being fabulous.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Being marginalized.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Being on fire.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Being rich.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Bill Nye the Science Guy.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Bingeing and purging.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Bitches.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Black people.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Bling.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Boogers.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Boris the Soviet Love Hammer.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Bosnian chicken farmers.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Breaking out into song and dance.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Britney Spears at 55.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Brown people.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Bullshit.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Capturing Newt Gingrich and forcing him to dance in a monkey suit.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Cards Against Humanity.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Carnies.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Catapults.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Catastrophic urethral trauma.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Hillary Clinton's death stare.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },  
+  {
+    "Text": "Centaurs.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Chainsaws for hands.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Cheating in the Special Olympics.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Child abuse.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Child beauty pageants.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Children on leashes.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Christopher Walken.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Chunks of dead prostitute.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Chutzpah.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Civilian casualties.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Clams.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Classist undertones.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Clenched butt cheeks.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Coat hanger abortions.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Concealing a boner.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Copping a feel.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Coughing into a vagina.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Count Chocula.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Crippling debt.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Crystal meth.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Cuddling.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Cybernetic enhancements.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Daddy issues.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Daddy's belt.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Darth Vader.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Date rape.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Dead babies.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Dead parents.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Death by Steven Seagal.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Deflowering the princess.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Dental dams.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Destroying the evidence.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Dick Cheney.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Dick fingers.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Dining with cardboard cutouts of the cast of 'Friends.'",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Doin' it in the butt.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Doing the right thing.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Domino's™ Oreo™ Dessert Pizza.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Dorito breath.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Double penetration.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Drinking alone.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Dropping a chandelier on your enemies and riding the rope up.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Dry heaving.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Dying of dysentery.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Dying.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Eating all of the cookies before the AIDS bake-sale.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Eating an albino.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Eating the last known bison.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Edible underpants.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Elderly Japanese men.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Electricity.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Embryonic stem cells.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Emotions.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Enormous Scandinavian women.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Erectile dysfunction.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Estrogen.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Ethnic cleansing.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Eugenics.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Exactly what you'd expect.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Existing.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Expecting a burp and vomiting on the floor.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Explosions.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Extremely tight pants.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Fabricating statistics.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Famine.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Fancy Feast",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Fancy Feast®.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Farting and walking away.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Fear itself.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Feeding Rosie O'Donnell.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Fetal alcohol syndrome.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Fiery poops.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Figgy pudding.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Filling Sean Hannity with helium and watching him float away.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Finding a skeleton.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Finding Waldo.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Finger painting.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Fingering.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Firey poops",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Firing a rifle into the air while balls-deep in a squealing hog.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Five-Dollar Footlongs™.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Flesh-eating bacteria.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Flightless birds.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Flying sex snakes.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Foreskin.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Former President George W. Bush.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Free samples.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Friction.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Friendly fire.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Friends with benefits.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Frolicking.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Fuck Mountain.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Full frontal nudity.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Gandalf.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Gandhi.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Geese.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Genetically engineered super-soldiers.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Genghis Khan.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Genital piercings.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "George Clooney's musk.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "German dungeon porn.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Getting abducted by Peter Pan.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Getting drunk on mouthwash.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Getting hilariously gang-banged by the Blue Man Group.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Getting in her pants, politely.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Getting married, having a few kids, buying some stuff, retiring to Florida, and dying.",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Getting naked and watching Nickelodeon.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Getting really high.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Getting so angry that you pop a boner.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Ghosts.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Giving 110%.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Gladiatorial combat.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Gloryholes.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Goblins.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "God.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "GoGurt®.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Golden showers.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Grandma.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Grandpa's ashes.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Graphic violence, adult language, and some sexual content.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Grave robbing.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Guys who don't call.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Half-assed foreplay.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Harry Potter erotica.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Heartwarming orphans.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Helplessly giggling at the mention of Hutus and Tutsis.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Her Majesty, Queen Elizabeth II.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Heteronormativity.",
+    "FontSize": 17.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Hipsters.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Historical revisionism.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Historically black colleges.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Home video of Oprah sobbing into a Lean Cuisine®.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Homeless people.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Hope.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Hormone injections.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Horrifying laser hair removal accidents.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Horse meat.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Hospice care.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Hot cheese.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Hot people.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Hot Pockets®.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Hulk Hogan.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Hurricane Katrina.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Inappropriate yodeling.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Incest.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Insatiable bloodlust.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Intimacy problems.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Italians.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Jafar.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Jean-Claude Van Damme.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Jeff Goldblum.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Jerking off into a pool of children's tears.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Jewish fraternities.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Jibber-jabber.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "John Wilkes Booth.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Judge Judy.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Just the tip.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Justin Bieber.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Kamikaze pilots.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Kanye West.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Keanu Reeves.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Kids with ass cancer.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Lactation.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Lady Gaga.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Lance Armstrong's missing testicle.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Land mines.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Laying an egg.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Leaving an awkward voicemail.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Leprosy.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Leveling up.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Licking things to claim them as your own.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Licking things to cliam them as your own",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Literally eating shit.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Living in a trashcan.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Lockjaw.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Loki, the trickster god.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Loose lips.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Lumberjack fantasies.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Lunchables™.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Mad hacky-sack skills.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Making a friend.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Making a pouty face.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Making the penises kiss.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Man meat.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Masturbation.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Me time.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Me.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "MechaHitler.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Medieval Times® Dinner & Tournament.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Men.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Menstrual rage.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Michael Jackson.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Michelle Obama's arms.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Mild autism.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Mooing.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Moral ambiguity.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Morgan Freeman's voice.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Mouth herpes.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Mr. Clean, right behind you.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Muhammad (Praise Be Unto Him).",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Multiple stab wounds.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Mutually-assured destruction.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "My collection of high-tech sex toys.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "My first kill.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "My genitals.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "My humps.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "My inner demons.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "My machete.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "My relationship status.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "My sex life.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "My soul.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "My vagina.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Natalie Portman.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Natural male enhancement.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Natural selection.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Nazis.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Necrophilia.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Neil Patrick Harris.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "New Age music.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Nickelback.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Nicolas Cage.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Nipple blades.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Not giving a shit about the Third World.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Not reciprocating oral sex.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Not wearing pants.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Nubile slave boys.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Nunchuck moves.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Obesity.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Object permanence.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Old-people smell.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Ominous background music.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Oncoming traffic.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "One Ring to rule them all.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "One thousand Slim Jims.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "One trillion dollars.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Oompa-Loompas.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Opposable thumbs.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Overcompensation.",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Overpowering your father.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Oversized lollipops.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Pabst Blue Ribbon.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Pac-Man uncontrollably guzzling cum.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Panda sex.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Panty raids.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Parting the Red Sea.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Passable transvestites.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Passing a kidney stone.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Passive-aggressive Post-it notes.",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Pedophiles.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Peeing a little bit.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Penis envy.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Picking up girls at the abortion clinic.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Pictures of boobs.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Pixelated bukkake.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Police brutality.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Pooping back and forth. Forever.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Poopy diapers.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Poor life choices.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Poor people.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Poorly-timed Holocaust jokes.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Porn stars.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Power.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Powerful thighs.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Prancing.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Praying the gay away.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Preteens.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Pretending to care.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Pretty Pretty Princess Dress-Up Board Game.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Pterodactyl eggs.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Puberty.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Public ridicule.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Pulling out.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Pumping out a baby every nine months.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Puppies!",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Queefing.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Quiche.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Quivering jowls.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Racially-biased SAT questions.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Racism.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Raping and pillaging.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Raptor attacks.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Rehab.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Repression.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Republicans.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Revenge fucking.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Riding off into the sunset.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Ripping into a man's chest and pulling out his still-beating heart.",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Rising from the grave.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Road head.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Robert Downey, Jr.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "RoboCop.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Ronald Reagan.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Roofies.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Rush Limbaugh's soft, shitty body.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Ryan Gosling riding in on a white horse.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Salvia.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Same-sex ice dancing.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Santa Claus.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Sarah Palin.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Saxophone solos.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Scalping.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Science!",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Scientology.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Scrotal frostbite.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Scrotum tickling.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Scrubbing under the folds.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Sean Connery.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Sean Penn.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Seduction.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Self-loathing.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Seppuku.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Serfdom.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Sexting.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Sexual humiliation.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Sexual tension.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Sexy pillow fights.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Sexy Siamese twins.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Shaft.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Shapeshifters.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Shaquille O'Neal's acting career.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Sharing needles.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Shiny objects.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Silence.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Skeletor.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Slef-loathing",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Smallpox blankets.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Smegma.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Sniffing glue.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Some really fucked-up shit.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Soup that is too hot.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Space muffins.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Special musical guest, Cher.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Spectacular abs.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Sperm whales.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Spontaneous human combustion.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Spring break!",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Stalin.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Statistically validated stereotypes.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Stephen Hawking talking dirty.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Stockholm Syndrome.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Stormtroopers.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Stranger danger.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Subduing a grizzly bear and making her your wife.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Sudden Poop Explosion Disease.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Suicidal thoughts.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Sunshine and rainbows.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Surprise sex!",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Survivor's guilt.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Sweet, sweet vengeance.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Swiftly achieving orgasm.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Switching to Geico®.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Swooping.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Synergistic management solutions.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Syphilitic insanity.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Take-backsies.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Taking a man's eyes and balls out and putting his eyes where his balls go and then his balls in the eye holes.",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Taking off your shirt.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Tangled Slinkys.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Tasteful sideboob.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Teaching a robot to love.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Teenage pregnancy.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Tentacle porn.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Testicular torsion.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "That thing that electrocutes your abs.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The American Dream.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Amish.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Big Bang.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Blood of Christ.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The boners of the elderly.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Boy Scouts of America.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Care Bear Stare.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Chinese gymnastics team.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The chronic.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The clitoris.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The corporations.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Dance of the Sugar Plum Fairy.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The day the birds attacked.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Devil himself.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The economy.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The entire Mormon Tabernacle Choir.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The female orgasm.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The folly of man.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Force.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The four arms of Vishnu.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The gays.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The glass ceiling.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Google.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The grey nutrient broth that sustains Mitt Romney.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Gulags.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Hamburglar.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The hardworking Mexican.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The harsh light of day.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The heart of a child.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The hiccups.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Holy Bible.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The homosexual lifestyle.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The human body.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Hustle.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The inevitable heat death of the universe.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The invisible hand.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Jews.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The KKK.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Kool-Aid Man.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Little Engine That Could.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Make-A-Wish® Foundation.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The mere concept of Applebee's®.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The milk man.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The miracle of childbirth.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The mixing of the races.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The new Radiohead album.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The ooze.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The penny whistle solo from 'My Heart Will Go On.'",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The placenta.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Pope.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The profoundly handicapped.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Rapture.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Rev. Dr. Martin Luther King, Jr.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The shambling corpse of Larry King.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The South.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The taint;\nThe grundle;\nThe fleshy fun-bridge.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Tempur-Pedic® Swedish Sleep System™.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The terrorists.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Three-Fifths compromise.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The token minority.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Trail of Tears.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The true meaning of Christmas.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Ubermensch.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Underground Railroad.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The violation of our most basic human rights.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The Virginia Tech Massacre.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The World of Warcraft.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Third base.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Thrid Base",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Throwing a virgin into a volcano.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Tiny nipples.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Tom Cruise.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Tongue.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Toni Morrison's vagina.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Tripping balls.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Two midgets shitting into a bucket.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Unfathomable stupidity.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Upgrading homeless people to mobile hotspots.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Used panties.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Vehicular manslaughter.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Viagra®.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Vigilante justice.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Vigorous jazz hands.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Vikings.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Waiting 'til marriage.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Waking up half-naked in a Denny's parking lot.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Weapons-grade plutonium.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Wearing an octopus for a hat.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Wearing underwear inside-out to avoid doing laundry.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Wet dreams.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "When you fart and a little bit comes out.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Whining like a little bitch.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Whipping a disobedient slave.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Whipping it out.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "White people.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "White privilege.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Wifely duties.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "William Shatner.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Winking at old people.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Wiping her butt.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Women in yogurt commercials.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Women's suffrage.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Words, words, words.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "World peace.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Yeast.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "YOU MUST CONSTRUCT ADDITIONAL PYLONS.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Zeus's sexual appetites.",
+    "FontSize": 18.0,
+    "Type": "White"
+  },
+  {
+    "Text": "_____________\n+\n_____________\n= _____________.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "_____________ is a slippery slope\nthat leads to _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "_____________.\nBetcha can't have just one!",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "_____________.\nHigh five, bro.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "_____________. It's a trap!",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "_____________. That's how I want to die.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "_____________: Good to the last drop.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "_____________: Kid tested, Mother approved.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "A romantic, candle-lit dinner would be incomplete without _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "After months of debate, the Occupy Wall Street General Assembly could only agree on 'More _____________!'",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "After the earthquake, Sean Penn brought _____________ to the people of Haiti.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Alternative medicine is now enbracing the curative powers of _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "And I would have gotten away with it, too, if it hadn't been for _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "And the Academy Award for _____________ goes to _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Before I run for president, I must destroy all evidence of my involvement with _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "BILLY MAYS HERE FOR _____________.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "But before I kill you, Mr. Bond, I must show you _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Charades was ruined for me forever when my mom had to act out _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Coming to Broadway this season, _____________: The Musical.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Daddy, why is mommy crying?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Dear Abby, I'm having some trouble with _____________ and would like your advice.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "During his childhood, Salvador Dali produced hundreds of paintings of _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "During his midlife crisis, my dad got really into _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "During sex, I like to think about _____________.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Everyone down on the ground! We don't want to hurt anyone. We're just here for _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "For my next trick I will pull _____________ out of _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Here is the church\nHere is the steeple\nOpen the doors\nAnd there is _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "How am I maintaining my relationship status?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "How did I lose my virginity?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "I do not know with what weapons World War III will be fought, but World War IV will be fought with 
+_____________.",
+    "FontSize": 13.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "I drink to forget _____________.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "I got 99 problems but _____________ ain't one.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "I learned the hard way that you can't cheer up a grieving friend with _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "I never truly understood _____________ until I encountered _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "I'm sorry, Professor, but I couldn't complete my homework because of _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "In 1,000 years when paper money is but a distant memory, how will we pay for goods and services?",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "In a world ravaged by _____________,\nour only solace is\n_____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "In his new self-produced album, Kanye West raps over the sounds of _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "In his newest and most difficult stunt, David Blaine must escape from _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "In its new tourism campaign, Detroit proudly proclaims that it has finally eliminated _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "In L.A. County Jail, word is that you can trade 200 cigarettes for _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "In M. Nigh Shyamalan's new movie, Bruce Willis discovers that ________ had really been ________ all along.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "In Michael Jackson's final moments, he thought about _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "In Rome, there are whisperings that the Vatican has a secret room devoted to _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "In the distant future, historians will agree that _____________ marked the beginning of America's decline.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "In the new Disney Channel Original Movie, Hannah Montana struggles with _____________ for the first time.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Instead of coal, Santa now gives the bad children _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "It's a pitty that kids these days are all getting involved with _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Life for American Indians was forever changed when the White Man introduced them to _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Lifetime presents _____________, the story of _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Little Miss Muffet;\nSat on a tuffet\nEating her curds and _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Major League Baseball has banned _____________ for giving players an unfair advantage.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Make a Haiku.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Maybe she's born with it. Maybe it's _____________.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Members of New York's social elite are paying thousands of dollars just to experience _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "MTV's new reality show features eight washed-up celebrities living with _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "My country, 'tis of thee, sweet land of _____________.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "My new favorite porn star is Joey '_____________' McGee.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "My plan for world domination begins with _____________.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Next from J.K. Rowling: Harry Potter and the Chamber of _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Next on ESPN2: The World Series of _____________.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Next season on Man vs. Wild, Bear Grylls must survive in the depths of the Amazon with only _____________ and his 
+wits.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Next time on Dr. Phil: How to talk to your child about _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Only two things in life are certain: death and _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Rumor has it that Vladimir Putin's favorite dish is _____________ stuffed with _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Science will never explain _____________.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Step 1:_______.\nStep 2:_______.\nStep 3:Profit!",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Studies show that lab rats navigate a maze 50% faster after being exposed to _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "That's right, I killed _____________. How, you ask? _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "The CIA now interrogates enemy agents by repeatedly subjecting them to _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "The class field trip was completely ruined by _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "The Five Stages of Grief: denial, anger, bargaining, _____________, acceptance.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "The healing process began when I joined a support group for victims of _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "The Smithsonian Museum of Natural History has just opened an interactive exhibit on _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "The socialist governments of Scandinavia have declared that access to _____________ is a basic human right.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "The votes are in, and the new high school mascot is _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "This is the way the world ends / This is the way the world ends / Not with a bang but with _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "This is your captain speaking. Fasten your seatbelts and prepare for _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "This month's Cosmo: 'Spice up your sex life by bringing _____________ into the bedroom.'",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Tonight on 20/20: What you don't know about _____________ could kill you.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "TSA guidelines now prohibit _____________ on airplanes.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "War! What is it good for?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What am I giving up for Lent?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What are my parents hiding from me?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What brought the orgy to a grinding halt?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What did I bring back from Mexico?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What did the U.S. airdrop to the children of Afghanistan?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What did Vin Diesel eat for dinner?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What do old people smell like?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What does Dick Cheney prefer?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What don't you want to find in your Chinese food?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What ended my last relationship?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What gets better with age?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What gives me uncontrollable gas?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What has been making life difficult at the nudist colony?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What helps Obama unwind?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What is Batman's guilty pleasure?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What never fails to liven up the party?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What will always get you laid?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What will I bring back in time to convince people that I am a powerful wizard?",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What would Grandma find disturbing, yet oddly charming?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What's a girl's best friend?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What's Batman's guilty pleasure?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What's my anti-drug?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What's my secret power?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What's Teach for America using to inspire inner city students to succeed?",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What's that smell?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What's that sound?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What's the gift that keeps on giving?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What's the most emo?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What's the new fad diet?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What's the next Happy Meal® toy?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What's the next super-hero / side-kick duo?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What's there a lot of in heaven?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "When all else fails, I can always masturbate to _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "When I am a billionaire, I shall erect a 50-foot statue to commemorate _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "When I am President of the United States, I will create the Department of _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "When I pooped, what came out of my butt?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "When I was tripping on acid, _____________ turned into _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "When Pharaoh remained unmoved, Moses called down a Plague of _____________.",
+    "FontSize": 14.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos 
+into research on _____________.",
+    "FontSize": 12.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "White people like _____________.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Why am I sticky?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Why can't I sleep at night?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Why do I hurt all over?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+
+  {
+    "Text": "Why do I <3 Philly?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What can be found in John Street's afro?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "I was going to get a cheesesteak, but instead I got ________.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "What's the next Wawa special hogie?",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "My farvorite thing to eat at Reading Terminal Market is ___.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+    {
+    "Text": "On his last day as Mayor, Ed Rendel took _____ from City Hall.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Instead of a Rocky statue, Philadelphia should have a statue of ______.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+  {
+    "Text": "Philadelphia Parking Authority now requires your registration, proof of insurance and _____ when retrieving your 
+vehicle.",
+    "FontSize": 16.0,
+    "Type": "Black"
+  },
+    {
+    "Text": "The ghost of Joey Vento",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Cheese Wiz and lube",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "My jawn",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Hooker Tuesdays at the mummers clubhouse",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Throwing D-batteries at Santa",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The scary part of The Concourse",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Firebombing whole city blocks",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "The citywide special",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Mopping up the floor at Dirty Frank's, wringing it into a glass and drinking it",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "An ice cold Peroni",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Tumbleweave",
+    "FontSize": 16.0,
+    "Type": "White"
+  },
+  {
+    "Text": "Scrapple",
+    "FontSize": 16.0,
+    "Type": "White"
+  }
+]}
